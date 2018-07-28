@@ -1,4 +1,4 @@
-# Tutorial on Neural Networks, from basics to complex.
+# Neural Networks, from basics to complex.
 Tutorial that follows the notes from University of Toronto.
 I created this repo to practice the basics of machine learning and neural networks.
 
